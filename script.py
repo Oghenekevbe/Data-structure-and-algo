@@ -1,8 +1,6 @@
 def is_leap(year):
     leap = False
 
-    # Write your logic here
-
     # The year can be evenly divided by 4
     if year % 4 == 0:
 
